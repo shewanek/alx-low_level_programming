@@ -1,10 +1,9 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
  * main - Entry point
  *
- * Return: 0 after printing the function
+ * Return: Always 0 (Successful)
  */
 int main(void)
 {
