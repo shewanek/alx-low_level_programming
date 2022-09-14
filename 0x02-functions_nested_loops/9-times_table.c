@@ -16,7 +16,7 @@ void times_table(void)
 		{
 			if (number > 0)
 			{
-				printf("%2d");
+				printf(",%2d");
 			}
 			printf("%d", number * multiplier);
 		}
